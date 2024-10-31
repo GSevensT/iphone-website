@@ -7,9 +7,10 @@ const App = () => {
     <main className="bg-black">
       <Navbar/>
       <Hero/>
-      <Highlight/>
+      <Highlight/> 
     </main>
   )
 }
-
+//remember highlight was used to be highlights
 export default App
+
